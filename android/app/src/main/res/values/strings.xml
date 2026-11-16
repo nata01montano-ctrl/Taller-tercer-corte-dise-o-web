@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">D&amp;D Master Toolkit</string>
+    <string name="title_activity_main">D&amp;D Master Toolkit</string>
+    <string name="package_name">com.dndmastertoolkit.app</string>
+    <string name="custom_url_scheme">com.dndmastertoolkit.app</string>
+</resources>
